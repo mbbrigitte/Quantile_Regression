@@ -1,6 +1,6 @@
 ## read 2 NetCDF files with lon, lat, time
 ## perform quantile regression over time at each lon x lat location and
-## calculate 0.9-significance level with 200 bootstrapps, not that the significance
+## calculate 0.9-significance level with 200 bootstrapps, note that the significance
 ## level has not been used in the Mueller and Seneviratne-publication
 
 ## example with Number of Hot days and SPI as in:
