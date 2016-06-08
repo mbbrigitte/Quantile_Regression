@@ -4,7 +4,7 @@ Code for Quantile Regression used in [Mueller and Seneviratne](http://www.pnas.o
 Read in 2 NetCDF files with lon, lat, time.
 
 Perform quantile regression over time at each lon x lat location and
-calculate 0.9-significance level with 200 bootstrapps (significance was not used in Mueller and Seneviratne, 2012)
+calculate 0.9-significance level with 200 bootstrapps 
 
 Figures showing slope of regression lines (left two maps, for Texas in the middle)
 <p align="center"> 
