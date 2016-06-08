@@ -6,12 +6,10 @@ Read in 2 NetCDF files with lon, lat, time.
 Perform quantile regression over time at each lon x lat location and
 calculate 0.9-significance level with 200 bootstrapps (significance was not used in Mueller and Seneviratne, 2012)
 
-Figure: 
-<p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/15571699/15908162/89ce069e-2dc0-11e6-9be0-99048dfa1fb0.jpg" width="350"/>
-  <div class="caption">Slope of regression lines of 10th, 30th, 70th and 90th percentiles - regressing drought indices and number of hot days.</div>
-  <img src="https://cloud.githubusercontent.com/assets/15571699/15908166/8dd4cba6-2dc0-11e6-8078-610b7d10e7fa.jpg" width="350"/>
-  <div class="caption">Quantile regression slopes for Texas (left hand side).</div>
+Figures showing slope of regression lines (map left two, for Texas middle)
+<p align="center"> 
+  <img src="https://cloud.githubusercontent.com/assets/15571699/15908162/89ce069e-2dc0-11e6-9be0-99048dfa1fb0.jpg" width="300"/>
+  <img src="https://cloud.githubusercontent.com/assets/15571699/15908166/8dd4cba6-2dc0-11e6-8078-610b7d10e7fa.jpg" width="300"/>
 </p>
 
 
