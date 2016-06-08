@@ -8,10 +8,10 @@ calculate 0.9-significance level with 200 bootstrapps (significance was not used
 
 Figure:
 Slope of regression lines of 10th, 30th, 70th and 90th percentiles - regressing drought indices and number of hot days.
-[https://cloud.githubusercontent.com/assets/15571699/15908162/89ce069e-2dc0-11e6-9be0-99048dfa1fb0.jpg]
+[alt tag](https://cloud.githubusercontent.com/assets/15571699/15908162/89ce069e-2dc0-11e6-9be0-99048dfa1fb0.jpg)
 
 And quantile regression slopes for Texas (left hand side).
-[https://cloud.githubusercontent.com/assets/15571699/15908166/8dd4cba6-2dc0-11e6-8078-610b7d10e7fa.jpg]
+[alt tag](https://cloud.githubusercontent.com/assets/15571699/15908166/8dd4cba6-2dc0-11e6-8078-610b7d10e7fa.jpg)
 
 Reference:  
 Mueller, B. and S.I. Seneviratne (2012): Hot days induced by precipitation deficits at the global scale. Proceedings of the National Academy of Sciences of the United States of America, 109 (31), 12398-12403, doi: 10.1073/pnas.1204330109
